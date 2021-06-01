@@ -14,7 +14,7 @@
 1. Create a fork of this repository
 2. Switch to the `devel` branch
 3. Make your changes
-4. Create a pull request to the devel branch of this repository (pull requests to `main` branch will be automatically declined)
+4. Create a pull request to the devel branch of this repository (pull requests to `main` branch will be automatically declined and rejected)
 
 ### Accepting Maintaners
 
